@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../R2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../referencing-alerts" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tenant-services" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
