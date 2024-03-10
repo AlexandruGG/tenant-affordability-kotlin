@@ -12,7 +12,6 @@ See assumptions in [Assumptions.md](docs/Assumptions.md).
 
 The application requires JDK 21 and will output the list of affordable properties when run:
 
-- using the Gradle Wrapper: `./gradlew bootRun`
 - using the pre-build jar: `java -jar tenantAffordabilityKotlin-1.0.0.jar`
 
 To build use `./gradlew build`.
